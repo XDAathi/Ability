@@ -31,7 +31,7 @@ Download: Not published yet
 3. Start creating your 3D models!
 
 ## Tech Stack
-![alt text](./res/Frontend_(1).png)
+![alt text](./res/TechStack.png)
 
 ### Local Server Setup (for developers)
 1. Clone the repository:
