@@ -30,6 +30,9 @@ Download: Not published yet
 2. Launch the app and grant necessary permissions
 3. Start creating your 3D models!
 
+## Tech Stack
+![alt text](./res/Frontend_(1).png)
+
 ### Local Server Setup (for developers)
 1. Clone the repository:
    ```bash
