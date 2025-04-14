@@ -3,7 +3,7 @@
 This project enables users to generate and refine 3D models through text and image inputs, using an interactive chat-based process. Designed with accessibility in mind, it empowers individuals—especially those with disabilities—to create custom, 3D-printable assistive devices and prosthetics tailored to their needs and help them complete everyday tasks.
 
 Go watch Demo Video: [link](https://www.youtube.com/watch?v=-GWfdXrmbIM&ab_channel=XDAathi)
-Download: Not published yet
+Devpost: [link](https://devpost.com/software/ability?_gl=1*qkr77t*_gcl_au*MTgzMjM4OTU2My4xNzM5NzUzMzkx*_ga*MzA2NTIzNjY3LjE3Mzk3NTMzOTE.*_ga_0YHJK3Y10M*MTc0NDY1MjE0Mi4yNS4xLjE3NDQ2NTIxNzAuMC4wLjA)
 
 ![alt text](./res/f1.png)
 
